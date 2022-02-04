@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.exe
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.deps.json
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.runtimeconfig.json
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.dll
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\bin\Debug\netcoreapp3.1\WindowsFormsContainers.pdb
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.Form1.resources
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.AssemblyInfo.cs
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.dll
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.pdb
+C:\Users\Админ\source\repos\WindowsFormsContainers\WindowsFormsContainers\obj\Debug\netcoreapp3.1\WindowsFormsContainers.genruntimeconfig.cache
